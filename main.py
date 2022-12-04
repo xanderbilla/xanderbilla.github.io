@@ -1,1 +1,1 @@
-print("Today is December 4")
+rint("Today is December 4")
